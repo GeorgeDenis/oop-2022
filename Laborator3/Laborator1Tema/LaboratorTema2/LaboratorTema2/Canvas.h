@@ -3,7 +3,7 @@ class Canvas
 
 {
     // add private data members
-    char canvas[101][101];
+    char canvas[30][30];
     int width;
     int height;
 
